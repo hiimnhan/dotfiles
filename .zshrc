@@ -4,7 +4,7 @@ ZSH_THEME="fino"
 
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
-source $ZSH/oh-my-zsh.sh
+source $HOME/oh-my-zsh.sh
 
 alias ls='exa --icons --group-directories-first'
 alias ll='exa -l --icons --no-user --group-directories-first  --time-style long-iso'
