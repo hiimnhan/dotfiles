@@ -7,7 +7,7 @@ local config = wezterm.config_builder()
 config.window_close_confirmation = "NeverPrompt"
 
 config.font = wezterm.font("JetBrains Mono", { weight = "Bold" })
-config.font_size = 15
+config.font_size = 18
 config.color_scheme = "Tokyo Night"
 config.window_background_opacity = 0.9
 
